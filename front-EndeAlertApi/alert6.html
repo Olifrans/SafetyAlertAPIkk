@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pânico Alerta</title>
+    <link rel="stylesheet" href="/alert6.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Safety Alert System</h1>
+      <p>
+        Press the button below to trigger an alert. This will capture your
+        location, audio, and video, and send them to our safety server.
+      </p>
+      <button id="alertButton">Trigger Alert</button>
+      <div id="status"></div>
+    </div>
+
+    <script src="/alert6.js"></script>
+  </body>
+</html>
+
+<!-- 
+4. Explicação e Configuração
+Captura de Localização: Utiliza navigator.geolocation para obter as coordenadas do usuário.
+Captura de Áudio e Vídeo: Utiliza navigator.mediaDevices.getUserMedia para acessar o microfone e a câmera.
+Gravação de Áudio e Vídeo: Usa MediaRecorder para gravar um curto clipe de vídeo (5 segundos neste exemplo).
+Envio para a API: Os dados de localização e o arquivo de vídeo são enviados para a API via fetch como FormData.
+5. Testando a Aplicação
+Servidor da API: Certifique-se de que a API .NET está em execução.
+Servidor Local: Pode ser necessário servir os arquivos HTML, CSS e JS através de um servidor local, como o live-server ou http-server no Node.js.
+HTTPS: Certifique-se de que o servidor da API usa HTTPS, pois a maioria dos navegadores exige HTTPS para acessar microfone e câmera.
+Conclusão
+Este frontend básico é suficiente para capturar a localização, áudio e vídeo, e enviar esses dados para a API quando o usuário clica no botão de alerta. Em um ambiente de produção, você deve considerar a segurança, a privacidade dos dados, e a otimização do processo de captura e envio de mídia. -->

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|c:\\users\\familiaolifrans\\source\\repos\\safetyalertapi\\safetyalertapi\\models\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|solutionrelative:safetyalertapi\\models\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|c:\\users\\familiaolifrans\\source\\repos\\safetyalertapi\\safetyalertapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|solutionrelative:safetyalertapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|c:\\users\\familiaolifrans\\source\\repos\\safetyalertapi\\safetyalertapi\\controllers\\alertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|solutionrelative:safetyalertapi\\controllers\\alertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|c:\\users\\familiaolifrans\\source\\repos\\safetyalertapi\\safetyalertapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|solutionrelative:safetyalertapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|c:\\users\\familiaolifrans\\source\\repos\\safetyalertapi\\safetyalertapi\\data\\alertcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|solutionrelative:safetyalertapi\\data\\alertcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|c:\\users\\familiaolifrans\\source\\repos\\safetyalertapi\\safetyalertapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|solutionrelative:safetyalertapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|c:\\users\\familiaolifrans\\source\\repos\\safetyalertapi\\safetyalertapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4ABAAEA-21B5-498C-8DF8-78CF4AB272A8}|SafetyAlertAPI\\SafetyAlertAPI.csproj|solutionrelative:safetyalertapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlertContext.cs",
+              "DocumentMoniker": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\Data\\AlertContext.cs",
+              "RelativeDocumentMoniker": "SafetyAlertAPI\\Data\\AlertContext.cs",
+              "ToolTip": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\Data\\AlertContext.cs",
+              "RelativeToolTip": "SafetyAlertAPI\\Data\\AlertContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:59:08.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SafetyAlertAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\appsettings.Development.json",
+              "RelativeToolTip": "SafetyAlertAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T20:38:27.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SafetyAlertAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SafetyAlertAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T20:08:50.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alert.cs",
+              "DocumentMoniker": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\Models\\Alert.cs",
+              "RelativeDocumentMoniker": "SafetyAlertAPI\\Models\\Alert.cs",
+              "ToolTip": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\Models\\Alert.cs",
+              "RelativeToolTip": "SafetyAlertAPI\\Models\\Alert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:27:49.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SafetyAlertAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\appsettings.json",
+              "RelativeToolTip": "SafetyAlertAPI\\appsettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T20:38:13.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SafetyAlertAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\Program.cs",
+              "RelativeToolTip": "SafetyAlertAPI\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:45:47.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlertController.cs",
+              "DocumentMoniker": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\Controllers\\AlertController.cs",
+              "RelativeDocumentMoniker": "SafetyAlertAPI\\Controllers\\AlertController.cs",
+              "ToolTip": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\Controllers\\AlertController.cs",
+              "RelativeToolTip": "SafetyAlertAPI\\Controllers\\AlertController.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAAAOEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:35:05.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

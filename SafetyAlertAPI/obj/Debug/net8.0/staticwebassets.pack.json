@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\wwwroot\\uploads\\2ccaf193-720d-42f4-ab4f-ef10bebac93a.mp4",
+      "PackagePath": "staticwebassets\\uploads\\2ccaf193-720d-42f4-ab4f-ef10bebac93a.mp4"
+    },
+    {
+      "Id": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\wwwroot\\uploads\\37c28d26-2258-4b31-ac74-6150becc5f7f.mp4",
+      "PackagePath": "staticwebassets\\uploads\\37c28d26-2258-4b31-ac74-6150becc5f7f.mp4"
+    },
+    {
+      "Id": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\wwwroot\\uploads\\8024ca8d-3844-4240-b553-f519eac7c7b2.mp4",
+      "PackagePath": "staticwebassets\\uploads\\8024ca8d-3844-4240-b553-f519eac7c7b2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\wwwroot\\uploads\\864430de-127f-4860-9ac0-ff7dcbdf2483.mp4",
+      "PackagePath": "staticwebassets\\uploads\\864430de-127f-4860-9ac0-ff7dcbdf2483.mp4"
+    },
+    {
+      "Id": "C:\\Users\\FamiliaOlifrans\\source\\repos\\SafetyAlertAPI\\SafetyAlertAPI\\wwwroot\\uploads\\fb1577d0-fd2d-4b0f-b586-1e612194d8f2.mp4",
+      "PackagePath": "staticwebassets\\uploads\\fb1577d0-fd2d-4b0f-b586-1e612194d8f2.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SafetyAlertAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SafetyAlertAPI.props",
+      "PackagePath": "build\\SafetyAlertAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SafetyAlertAPI.props",
+      "PackagePath": "buildMultiTargeting\\SafetyAlertAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SafetyAlertAPI.props",
+      "PackagePath": "buildTransitive\\SafetyAlertAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
